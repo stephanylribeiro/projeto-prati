@@ -1,4 +1,4 @@
 # projeto+prati
 Projeto desenvolvido como avaliação final do curso +Prati
 
-Link para o prejeto: https://stephanylribeiro.github.io/projeto-prati/
+Link para o projeto: https://stephanylribeiro.github.io/projeto-prati/
